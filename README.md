@@ -11,7 +11,8 @@
 
 ## <img src="https://media.giphy.com/media/ZqaZekJ3mPMmeMew4A/giphy.gif" width="40">Find me at
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raghav_aditya_45/)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityaxraghav)<br>
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adityaxraghav)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00aa45?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/adityaraghav45)<br>
 [![ContactForm](https://img.shields.io/badge/EMAIL-realraghavaditya@gmail.com-0066A1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:realraghavaditya@gmail.com)
 
 ## <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="40"> Skills
