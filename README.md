@@ -16,6 +16,19 @@
 - **ORM**: Prisma, Mongoose.
 - **Misc**: Docker, Turborepo, TailwindCSS, Zustand.
 
+## Some Projects
+
+- **Thunder Forms** – AI‑powered form builder that generates, embeds, and analyzes forms for teams.  
+  Built with Next.js, TypeScript, Postgres, Prisma, shadcn/ui. Focused on fast creation flow and response analytics.
+- **Lexa AI** – GenAI assistant for Law, with a custom ingestion pipeline and RAG.  
+  Built using TypeScript, vector search, and observability for prompt quality.
+- **ReTexture** – LangGraph‑based system for generating **compliant product images** at scale.  
+  Handles asset ingestion, transformations, and validation for e‑commerce teams.
+
+You can see more on my website → [aditya.is-a.dev](https://aditya.is-a.dev)
+
+---
+
 ## Socials
 
 - Connect with me on [**X/Twitter**](https://x.com/adityaxraghav).
